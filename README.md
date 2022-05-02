@@ -14,7 +14,7 @@ Using Python as an alternative to Excel: audit a set of voting outcomes with an 
 
 ![Results](./Resources/results.png)
 
-Python Output
+- Python Output
 
 ![Python Output](./Resources/py_output.png)
 
